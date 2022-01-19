@@ -1,4 +1,4 @@
-### Hello World 🤪 I'm Sebastian Arevalo 👋
+# Hello World 🤪 I'm Sebastian Arevalo 👋
 
 - 🔭 I’m currently working on website proyects
 - 🌱 I’m currently learning React
