@@ -6,3 +6,15 @@
 - 🤔 I want to work with MEAN or MERN developers.
 - 📫 How to reach me: https://wa.me/+573208007296
 
+🏋️‍♂️ My Skills
+
+> HTML5
+> CSS
+> Javascript
+> Python
+> Python
+> Mongodb
+> Expressjs
+> Angular
+> Node.js
+
