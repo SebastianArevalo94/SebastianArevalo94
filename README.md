@@ -6,7 +6,7 @@
 - 🤔 I want to work with MEAN or MERN developers.
 - 📫 How to reach me: https://wa.me/+573208007296
 
-https://github-readme-stats.vercel.app/api?username=sebastianarevalo94&show_icons=true&theme=dracula
+<img src="https://github-readme-stats.vercel.app/api?username=sebastianarevalo94&show_icons=true&theme=dracula" alt="">
 
 
 # 🏋️‍♂️ My Skills
